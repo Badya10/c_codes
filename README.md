@@ -1,2 +1,2 @@
 # c_codes
-Repository having C codes
+A Repository having C codes. Here I am uploading the C Codes as I am practising them.
